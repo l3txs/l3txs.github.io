@@ -17,8 +17,7 @@ Quero que saiba que meu amor por você é verdadeiro e duradouro, e que me sinto
 Com todo o meu amor e respeito,
 
 Lelê. 🤍</p>
-	<img src="https://photos.app.goo.gl/trtrHTyPtbmz8wzX6"
- alt="https://photos.app.goo.gl/trtrHTyPtbmz8wzX6">
+	EU TE AMO!
 	<p>Espero que tenha gostado do nosso site!</p>
 </body>
 </html>
